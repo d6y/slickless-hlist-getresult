@@ -1,0 +1,1 @@
+# Slickless GetResult for HList
